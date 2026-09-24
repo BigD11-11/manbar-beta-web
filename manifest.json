@@ -5,11 +5,16 @@
   "start_url": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#FFF9F1",
-  "theme_color": "#571522",
+  "background_color": "#F7F2E8",
+  "theme_color": "#541723",
   "dir": "rtl",
   "lang": "ar",
   "icons": [
-    {"src":"icons/Icon-1024.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "icons/manbar-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
   ]
 }
